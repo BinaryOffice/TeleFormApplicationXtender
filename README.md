@@ -1,2 +1,2 @@
-# TeleFormApplicationXtender
-Teleform Connect Agent for ApplicationXtender 8.1
+# TeleForm Connect Agent for ApplicationXtender 8.1
+
